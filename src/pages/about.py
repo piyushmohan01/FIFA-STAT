@@ -35,7 +35,7 @@ layout = html.Div(
                 html.Div(className='about-buttons-div', children=[
                   html.Div(className='buttons-about', children=[
                     html.A(
-                    href='https://github.com/piyushmohan01',
+                    href='https://github.com/piyushmohan01/FIFA-STAT.git',
                       children=[
                         html.Button(children=[
                           html.Img(src='../assets/images/icons/github-mark-white.png')
