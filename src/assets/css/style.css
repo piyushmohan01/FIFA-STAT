@@ -1,0 +1,42 @@
+.body {
+    margin: 0px;
+    height: 100%;
+    align-content: center;
+}
+
+#page-content {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-right: 0;
+    /* padding: 1rem; */
+    background-color: black;
+    z-index: -1;
+}
+
+.appTitle {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #D5FF34;
+    margin: 0;
+}
+
+.nav-link{
+    font-size: 1em;
+    text-align: left;
+}
+
+.nav-pills .nav-link.active {
+    color: #13FFFF;
+    background-color: #1a1a1a;
+    border-color: white;
+}
+
+.AppContainer{
+    height: 100vh;
+    width: 100vw;
+    margin: 0px;
+    background-color: black;
+}

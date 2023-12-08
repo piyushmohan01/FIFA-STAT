@@ -1,0 +1,446 @@
+.playerPage-content {
+    width: 100%;
+    height: 100vh;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.playerPage-section-1 {
+    /* width: 28.5rem; */
+    width: 32.5%;
+    height: 100%;
+    padding: 1rem;
+    /* border-left: 0.1px solid #D5FF34;  */
+    border-right: 0.1px solid #D5FF34; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nameTag {
+    width: 100%;
+    height: fit-content;
+    padding: 0.5rem 0.75rem;
+    padding-bottom: 0;
+    /* background-color: #1a1a1a; */
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+#playerFace-div {
+    width: fit-content;
+    padding-right: 1rem;
+    height: 85px;
+    /* background-color: blue; */
+}
+
+#playerFace {
+  width: 80px;
+  height: 80px;
+  image-resolution: from-image 300dpi;
+}
+
+#clubLogo-div {
+    width: fit-content;
+    height: fit-content;
+    padding-right: 0.25rem;
+    padding-top: 0.25rem;
+    /* background-color: blue; */
+}
+
+.clubLogoName {
+  display: flex;
+  flex-direction: row;
+}
+
+#clubLogo {
+    width: 2rem;
+    height: 2rem;
+    image-resolution: from-image 300dpi;
+}
+
+.numAndName {
+    display: flex;
+    flex-direction: row;
+}
+
+.numAndName > p {
+    font-size: 1.5rem;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+}
+
+#playerNameBox > p {
+    margin: 0;
+}
+#playerNameTag {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #1a1a1a; */
+}
+
+.generalInfoCall {
+    /* padding-bottom: 1rem; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+}
+.generalInfoCall-left {
+    width: fit-content;
+    padding-right: 0.75rem;
+}
+.generalInfoCall-left > p {
+  margin-bottom: 0rem;
+}
+.generalInfoCall-colons > p {
+  margin-bottom: 0rem;
+}
+.generalInfoCall-right {
+    width: fit-content;
+    /* background-color: blue; */
+    padding-left: 1rem;
+    padding-right: 0.5rem;
+}
+.generalInfoCall-right > p {
+  text-align: right;
+  margin-bottom: 0rem;
+}
+
+.generalInfo {
+  padding: 0;
+  /* margin-bottom: 1rem; */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+#generalInfoDiv {
+  /* margin-right: 1rem; */
+  width: fit-content;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#pitch-pos {
+  width: 44%;
+  height: fit-content;
+}
+#pitch-pos > img {
+  max-width: 100%;
+}
+
+#radar-box {
+  width: fit-content;
+  /* background-color: blue; */
+}
+
+/* #radar-plot {
+  height: 25%;
+  width: 50rem;
+} */
+
+.custom-tabs-container {
+  width: 26.5rem;
+}
+.custom-tabs {
+  border-top-left-radius: 3px;
+  background-color: black;
+  padding: 0px;
+}
+
+.custom-Tab {
+  color: white;
+  background-color: black !important;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-top: 3px solid transparent !important;
+  border-left: 0px !important;
+  border-right: 0px !important;
+  border-bottom: 0px !important;
+  padding: 0px !important;
+  padding-bottom: 3px !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+.custom-Tab--selected {
+  color: #13FFFF !important;
+  background-color: #1a1a1a !important;
+  box-shadow: 1px 1px 0px transparent;
+  border-left: 1px solid transparent !important;
+  border-right: 1px solid transparent !important;
+  border-bottom: 3px solid #13FFFF !important;
+}
+#tabs-1 {
+  margin-bottom: 1rem;
+}
+#tab-1-content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#tab-2-content {
+  width: 100%;
+  height: 240px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+#tab-3-content {
+  width: 100%;
+  height: 240px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+#tab-4-content {
+  width: 100%;
+  height: 240px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#radar-plot {
+  width: fit-content;
+}
+
+#info-table {
+  margin-top: -30px;
+}
+
+.playerPage-section-2 {
+  height: 100%;
+  width: 52.5%;
+  /* background-color: #1a1a1a; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-content: center;
+}
+
+#viz-container-1 {
+    height: fit-content;
+    width: 100%;
+    /* margin: 1rem; */
+    margin-right: 0rem;
+    margin-bottom: 0rem;
+}
+/* #viz-container-2 {
+    background-color: #1a1a1a;
+    height: 45%;
+    width: 100%;
+    margin: 1rem;
+    margin-top: 0rem;
+} */
+
+#plot-type-selector {
+  height: fit-content;
+  /* border: 0.1px solid #D5FF34; */
+  /* background-color: #1a1a1a; */
+  display: flex;
+  flex-direction: row;
+  /* width: 95%; */
+  justify-content: space-evenly;
+  padding: 1rem 0;
+  border-bottom: 0.1px #D5FF34 solid;
+  /* margin-top: 1rem; */
+  /* border-radius: 5rem; */
+}
+
+.plot-type-dropdowns {
+  /* width: 52.5%; */
+  width: 54%;
+  /* padding: 0rem 1rem; */
+  /* padding-right: 0.5rem; */
+  /* margin-left: 2rem; */
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  /* background-color: #D5FF34; */
+}
+
+#plot-dropdown-div {
+  padding: 0rem 0.25rem;
+}
+
+/* .Select is-clearable is-searchable Select--single > .Select-control {
+  margin: 0 !important;
+} */
+
+/* #attr-cat-dropdown {
+  width: 20%;
+} */
+
+.radioItems-plot {
+  display: flex;
+  flex-direction: row;
+}
+
+.plot-carousel-div {
+  height: fit-content;
+  /* margin-top: 1rem; */
+  /* border-top: 0.1px #D5FF34 solid; */
+  border-bottom: 0.1px #D5FF34 solid;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #1a1a1a; */
+}
+
+#plot-outer-div {
+  height: fit-content;
+  width: fit-content;
+  min-width: 85%;
+  padding: 0.5rem 0;
+}
+
+#plot-container {
+  /* width: fit-content; */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+/* #plot-container > .dash-graph {
+  width: 100%;
+} */
+
+.slider-div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#previous-button-div {
+  height: 25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0rem 0.5rem;
+}
+
+#previous-button-div-1 {
+  height: 25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0rem 0.5rem;
+}
+
+#next-button-div {
+  height: 25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0rem 0.5rem;
+}
+
+#placeholder-plot-div {
+  height: 25rem;
+  min-width: 85%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#placeholder-percentile {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#top-stats-container {
+  width: 65%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+}
+/* 
+.progress {
+  padding: 0;
+} */
+
+.dbc-progress-bar {
+  width: 70%;
+  height: 1.25rem;
+}
+
+#dbc-progress-text {
+  margin: 0;
+  margin-left: 0.75rem;
+}
+
+.progress-bar {
+  color: white;
+  font-weight: bold;
+}
+.progress {
+  --bs-progress-bg: #202020;
+}
+
+.col {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+}
+
+#viz-container-2 {
+  display: flex;
+  flex-direction: row;
+  height: fit-content;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+#buttons-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+#percentile-buttons-1 {
+  display: flex;
+  flex-direction: column;
+}
+#percentile-buttons-2 {
+  display: flex;
+  flex-direction: column;
+}
+
+#percentile-buttons-1 > button, #percentile-buttons-2 > button {
+  margin: 0.25rem 0.5rem;
+  padding: 0.25rem 0.5rem;
+  background-color: #232323;
+  border-radius: 0.25rem;
+}
+
+/*  */
+.dash-debug-menu__outer, .dash-debug-menu {
+  display: none !important;
+}
+/*  */

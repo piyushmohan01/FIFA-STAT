@@ -1,0 +1,82 @@
+# Case Studies with FIFA-STAT :
+
+Here you can find some case studies done on some teams over different seasons in the past few years. The aim for the case studies was to showcase various ways in which the application can be used and applied to real-world scenarios. We will go through the cases describing the aim and analyzing the findings with the app.
+
+---
+
+## 1) Manchester City (2022/23) :
+
+![ManCity-2022/23](./assets/images/case-studies/final-images/MANCITY.png)
+
+No team in England has been as dominating as Man City have been since Pep Guardiola took over since the start of the 2016/17 campaign. On the European stage, they did come close to lifting the Champions League trophy over the years. Prior to the 2022/23 season, Pep Guardiola's Man City reached three Quater-finals, one Semi-Finals and one Finals. But in the 2022/23 season, they won it all becoming the second English side to win a treble (Premier League, Champions League, and FA Cup). In this case study, we are going to find how they achieved the feat and what were the highlights from the season.
+
+---
+
+#### `Erling Haaland` :
+
+In his debut season in what is considered to be the toughest league in the world, Erling Haaland crushed numerous records with his incredible goal scoring ability.
+
+```Scoring 36 goals in 35 appearences, at the age of 22, Erling Haaland broke the record for most goals scored in a single Premier League season with the best minutes per goal ratio of 77. The Norwegian dominated the charts in the Champions League as well, scoring 12 goals 11 matches ending the campaign as the highest goalscorer. He also became the youngest and fastest player in the competition's history to score 30 Champions League goals.```
+
+Haaland's athleticism, clinical finishing, timed runs and exceptional positioning are few of his strengths that make him such a deadly finisher in front of goal. We are all aware of his goalscoring exploits in the real-world but is he just as strong in the FIFA games? We'll try to find how good he fares over some of the attributes and see how he became the player he is today.
+
+![PlayerSidebar](./assets/images/case-studies/final-images/HAALAND.png)
+
+From the image we can see that Haaland's Finishing and Shot Power attributes make him the best in comparison to all the other Strikers (ST) in FIFA-23. Whereas, his Heading Accuracy and Jumping attributes fall somewhere in the mix and are pretty far from the best. Haaland's Positioning and Composure can be seen in top-most region as compared to others. From the percentiles of the 'Attack' Skill-Category, we can deduce that Haaland falls in the best groups for certain attributes but still has a way to go with his passing.
+
+---
+
+#### `Rodrigo (Rodri)` :
+
+Another player who played a crucial role in City's triumph this season was Rodrigo (Rodri). A dominant midfield force who's command over the game started numerous opportunities and kept the possession based playstyle popular in Pep Guardiola's teams.
+
+```Playing the most minutes (4478) on the pitch across the campaign, Rodri topped the charts for several stats. His 4,068 passes and 466 ball recoveries across all competitions was the most of any Premier League player. He also had the most progressive carries (384) in the Premier League among midfielders this season. In the Champions League, he regained possession 105 times which was 26 more than any player this season making him the second highest to do so after Claude Makélélé (109) in 2007/08.```
+
+Rodri's strengths clearly lie in his ability to control the tempo of the game with his brilliant ball-control, passing, and vision. This season showcased Rodri's play-making aspects with him topping charts for most open-play sequences initiated (11), most progressive carries, and highest carry distance. How far do you think FIFA's Rodri would come when comparing him to the Rodri we witnessed this season?
+
+![Playerr](/assets/images/case-studies/final-images/RODRI.jpg)
+
+The image above tells us that Rodri falls in the better part of all plots but is just a tiny bit far from being the best in those aspects. His best pair of attributes from the graph is clearly Interceptions and Marking Awareness (with Positioning) which explain his stats from the season. The other plot shows that he has the numbers to prove his Long-Passing and Vision (with Short Passing). Looking at the percentiles, it is evident that he is among the best in the game when it comes to Ball-control and Long-Passing but appears to be in a mediocre range of players when it comes to Dribbling.
+
+---
+
+## 2) Real Madrid (2021/22) :
+
+![PlayerSidebar](./assets/images/case-studies/final-images/REALMADRID.png)
+
+The 2021/22 season was dominated by one team and it was Carlo Ancelloti's Madrid. Winning the La Liga, the Spanish Cup, and the fifth Champions League trophy in the last 9 seasons, Real Madrid provided a memorable season for the continuing addition to their trophy cabinet. Ancelloti, with his first season in his second Real Madrid stint, celebrated his fourth Champions League victory making him the most to do so. Karim Benzema had an exceptional season with his brilliant goalscoring ability bagging himself the Ballon D'or. The [Semi-Final](https://www.youtube.com/watch?v=U8YOR4_IeTI) of the Champions League this season was an epic clash over two legs against Manchester City. Real's comeback proved why they are called the Kings of Europe dominating the league for years. 
+
+---
+
+#### `Karim Benzema` :
+
+From being a supporting striker, going on to form one of the most dangerous front three, to finally earning his spot at the top of the game, Karim Benzema's longetivity and aging like wine reached the pinnacle this season which was rewarded with the Ballon D'or.
+
+```Benzema ended the season as the top-scorer in both La Liga and the Champions League with 27 and 15 goals in the respective competitions. A direct goal contribution every 66.42 minutes across the season shows how important he was to the side. Across the La Liga season, Benzema had the highest expected goals ratio (xG) at 23.7 and he performed even better scoring 27. He also moved passed Raul, with 135 lesser appearances, to become the second highest scorer for the side and only behind Cristiano Ronaldo.```
+
+A seasoned centre-forward (CF) who has been performing at the top for several years, Benzema's finishing paired with his excellent positioning were one of the main reasons for all the goals and involvement in chances. Outperforming forwards across Spain and the entire Europe, it can be easy to say that he was at his this season but was he just as equally rated in the game FIFA-22?
+
+
+![PlayerSidebar](./assets/images/case-studies/final-images/BENZEMA.png)
+
+In terms of Finishing and Shot-Power, Benzema only fell behind Luis Suarez and Sergio Aguero, whereas in terms of Positioning and Composure, he is almost the best when compared to all players in the league. His percentiles show that he is among the best in the stronger aspects of his game. With an in-game overall of 91, these are clearly the ratings of a player already at the top which tells us that he was actually reaching the peak of his career.
+
+---
+
+#### `Vinícius Júnior` :
+
+If there was any other player who made an impact and constantly shined under the spotlight it was definitely Vinícius Júnior. Pacey winger with magical skills and incredible ability to change the game at any moment, Vini Jr. provided his support to fellow forwards across the entire season.
+
+```With his flashy dribbling, Vini Jr. completed the most dribbles (83) across the Champions League, covered the most distance (133.2km) in the league and with that he also suffered the most fouls (24). In the La Liga, he performed the most shot-creating actions (6.29 per game) and also the most goal-creating actions (28). He was integral to the build-up receiving the most progressive passes (485) while also completing the most take-ons (95) and the most progressive carries (225).```
+
+The stats show that Vini Jr. is among the best wingers in the world at the moment. His close-control, dribbling, and speed are some of his strongest areas which helped Real Madrid achieve the treble. Pairing up Benzema, he formed a very dangerous attacking threat for the rivals. Let's see if he's equally good in that year's FIFA?
+
+![PlayerSidebar](./assets/images/case-studies/final-images/VINIJR.png)
+
+Here, we can see that Vini Jr. is one of best dribblers with his Dribbling and Ball-Control ratings falling in the best across the league. He is also the fastest player in the league with the best Sprint Speed and Acceleration when compared to other players. The bar plot shows his growth over the "Movement" skill category where we can see that he has improved over the years and already looks to be in the percentiles of the top players. With great percentiles for agility and reactions, one can tell how he manages to escape out of tight situations to create an opportunity for his team.
+
+---
+
+## Conclusion :
+
+Both the case studies carried out where examples of how one can use the FIFA-STAT app to understand the ratings better and to analyze different players across different leagues or to find their best young or affordable player for a position. I hope you found something more about the game you love(d) and I'd be really grateful if the community gets a tiny help from the app I built in love with the sport and the franchise that lost its essence somewhere along the way.

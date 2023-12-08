@@ -1,0 +1,48 @@
+
+.Select-value {
+    background-color: #1a1a1a;
+    color: #13ffff;
+}
+
+.Select-value-label {
+    color: #13ffff !important;
+}
+
+.Select-control {
+    background-color: #1a1a1a !important;
+}
+
+.Select.is-focused > .Select-control {
+    background-color: #1a1a1a;
+}
+
+.Select--single > .Select-control .Select-value, .Select-placeholder {
+    color: white;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+
+.Select.is-focused:not(.is-open) > .Select-control {
+    background-color: #222;
+    border-color: var(--primary);
+    box-shadow: none;
+} 
+
+.Select.is-clearable.is-disabled.is-searchable.Select--single > .Select-control > .Select-multi-value-wrapper > .Select-placeholder {
+    opacity: 0.5;
+}
+
+.VirtualizedSelectOption {
+    background-color: #222;
+    color: white;
+ }
+
+.VirtualizedSelectFocusedOption {
+    background-color: #1a1a1a;
+    opacity: .7;
+}
+
+.dropDown {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}
