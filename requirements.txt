@@ -2,3 +2,4 @@ dash==2.9.2
 pandas==2.0.0
 opencv-python==4.7.0.68
 mplsoccer==1.2.2
+gunicorn
