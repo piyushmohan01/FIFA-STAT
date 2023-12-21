@@ -477,10 +477,6 @@ def get_callbacks(app):
                       dcc.Graph(
                         id='radar-plot',
                         figure=fig,
-                        config={
-                          'displayModeBar': False,
-                          'displaylogo': False,
-                        }
                       ),
                       dash_table.DataTable(
                         id='info-table',
