@@ -45,7 +45,7 @@ layout = html.Div(
                   ]),
                   html.Div(className='buttons-about', children=[
                     html.A(
-                    href='https://medium.com/@piyushmohan01',
+                    href='https://medium.com/@piyushmohan01/fifa-stat-bb3560543400',
                       children=[
                         html.Button(children=[
                           html.Img(src='../assets/images/icons/medium-icon.png')
