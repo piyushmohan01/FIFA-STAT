@@ -1,9 +1,14 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c9f9cb0-d77e-46f0-828b-1bc412d0a574" />
+</p>
+
 ## FIFA-STAT : Analytics Dashboard for FIFA enthusiasts
 
 ### About the Dashboard :
 The app is predominantly developed using Dash and Plotly, using FIFA rosters of male players spanning FIFA 18 to FIFA 23. The datasets were sourced from Stefano Leone’s Kaggle page, with FIFA-18 to FIFA-22 data extracted from the [FIFA-22 dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset), and the specific FIFA-23 player data obtained from the dedicated [FIFA-23 dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset). The FIFA-23 roster was acquired from a distinct dataset, introducing some inconsistencies compared to data from previous versions. It’s worth noting that all the data used was originally scraped from the [Sofifa website](https://sofifa.com/?r=230054&set=true), ensuring comprehensive and accurate information for analysis within the app. Along with the main page, an additional about page is added to provide users a guide to work with the application along with a few selected case-studies demonstrating how analysis through the dashboard could be useful.
 
 ### Tech-Stack & Requirements :  
+
 
 - dash == `2.9.2`
 - pandas == `2.0.0`
